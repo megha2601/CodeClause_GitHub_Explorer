@@ -14,4 +14,4 @@ First there will be a text area where you have to enter the github username, aft
 Copy the code url and clone it in VS code editor and hit run button on the menu bar below the title bar in VS code editor. This will open the project in live mode in Google Chrome.
 
 ### Live Mode
-Click here(https://megha2601.github.io/CodeClause_GitHub_Explorer) to se the project in live mode.
+Click [here](https://megha2601.github.io/CodeClause_GitHub_Explorer) to se the project in live mode.
