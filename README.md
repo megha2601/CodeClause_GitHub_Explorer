@@ -1,4 +1,4 @@
-# CodeClause_GitHub_Explrorer
+# CodeClause_GitHub_Explorer
 
 
 # CodeClause Internship Project
