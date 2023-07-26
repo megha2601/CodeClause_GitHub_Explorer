@@ -1,9 +1,6 @@
-# CodeClause_GitHub_Explorer
+# GitHub_Explorer
 
 
-# CodeClause Internship Project
-
-This project is made for CodeClause internship. This is made using VS Code Editor.
 
 ## Usage
 
